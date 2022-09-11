@@ -1,0 +1,15 @@
+C:\Users\Дети\Desktop\work\I_P_R\I_P_R\bin\Debug\net6.0\I_P_R.exe
+C:\Users\Дети\Desktop\work\I_P_R\I_P_R\bin\Debug\net6.0\I_P_R.deps.json
+C:\Users\Дети\Desktop\work\I_P_R\I_P_R\bin\Debug\net6.0\I_P_R.runtimeconfig.json
+C:\Users\Дети\Desktop\work\I_P_R\I_P_R\bin\Debug\net6.0\I_P_R.dll
+C:\Users\Дети\Desktop\work\I_P_R\I_P_R\bin\Debug\net6.0\I_P_R.pdb
+C:\Users\Дети\Desktop\work\I_P_R\I_P_R\obj\Debug\net6.0\I_P_R.csproj.AssemblyReference.cache
+C:\Users\Дети\Desktop\work\I_P_R\I_P_R\obj\Debug\net6.0\I_P_R.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дети\Desktop\work\I_P_R\I_P_R\obj\Debug\net6.0\I_P_R.AssemblyInfoInputs.cache
+C:\Users\Дети\Desktop\work\I_P_R\I_P_R\obj\Debug\net6.0\I_P_R.AssemblyInfo.cs
+C:\Users\Дети\Desktop\work\I_P_R\I_P_R\obj\Debug\net6.0\I_P_R.csproj.CoreCompileInputs.cache
+C:\Users\Дети\Desktop\work\I_P_R\I_P_R\obj\Debug\net6.0\I_P_R.dll
+C:\Users\Дети\Desktop\work\I_P_R\I_P_R\obj\Debug\net6.0\refint\I_P_R.dll
+C:\Users\Дети\Desktop\work\I_P_R\I_P_R\obj\Debug\net6.0\I_P_R.pdb
+C:\Users\Дети\Desktop\work\I_P_R\I_P_R\obj\Debug\net6.0\I_P_R.genruntimeconfig.cache
+C:\Users\Дети\Desktop\work\I_P_R\I_P_R\obj\Debug\net6.0\ref\I_P_R.dll
